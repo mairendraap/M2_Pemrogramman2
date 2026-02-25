@@ -12,4 +12,4 @@ def hitung_mundur_pc(tahun, bulan, hari):
     print(f"{Fore.YELLOW}Target beli PC: {Fore.WHITE}{herdan_beli_pc}")
     print(f"{Fore.YELLOW}Tanggal sekarang: {Fore.WHITE}{tanggal_sekarang}")
     print(f"{Fore.GREEN}Kira-kira gweh akan beli PC {Fore.RED}{selisih_hari.days} {Fore.GREEN}hari lagi.")
-    print(f"{Fore.MAGENTA}Jatuhnya di hari {Fore.CYAN}{hari_beli_pc}{Fore.MAGENTA}, Bos.")
+    print(f"{Fore.MAGENTA}Jatuhnya di hari {Fore.CYAN}{hari_beli_pc}{Fore.MAGENTA}")
